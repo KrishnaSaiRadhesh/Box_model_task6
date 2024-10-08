@@ -1,0 +1,40 @@
+.container{
+    height: 450px;
+    width: 300px;
+    border: 2px solid;
+    border-radius: 50px;
+}
+
+.s1
+{
+    height: 50px;
+    border: 2px solid;
+    margin: 20px;
+}
+
+.s2{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+    margin: 20px 0px 0px 50px;
+    border-radius: 100px;
+}
+
+.s3{
+    height: 20px;
+    width: 130px;
+    margin: 20px 0px 10px 90px;
+    border: 2px solid;
+}
+
+.s4{
+    height: 30px;
+    margin: 10px 20px 10px 30px;
+    border: 2px solid;
+}
+
+.s5{
+    height: 30px;
+    margin: 10px 20px 10px 30px;
+    border: 2px solid;
+}
